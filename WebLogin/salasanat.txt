@@ -1,0 +1,8 @@
+pekka;akkep
+jukka;akkuj
+nakke;salasana1234
+newuser;password
+kokko;kokkokokko
+nakki;nakki
+neweruser;password
+joojoo;joojoo1231
